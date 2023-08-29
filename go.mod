@@ -10,7 +10,7 @@ require (
 	github.com/Azure/go-autorest/autorest/to v0.3.0 // indirect
 	github.com/Azure/go-autorest/autorest/validation v0.2.0 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190923070751-d615ccdd3e09 // indirect
-	github.com/aws/aws-sdk-go v1.24.4 // indirect
+	github.com/aws/aws-sdk-go v1.34.0 // indirect
 	github.com/foomo/tlsconfig v0.0.0-20180418120404-b67861b076c9
 	github.com/go-acme/lego/v3 v3.1.0
 	github.com/go-ini/ini v1.48.0 // indirect

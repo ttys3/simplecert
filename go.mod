@@ -23,9 +23,7 @@ require (
 	github.com/transip/gotransip v5.8.2+incompatible // indirect
 	go.opencensus.io v0.22.1 // indirect
 	go.uber.org/ratelimit v0.1.0 // indirect
-	golang.org/x/crypto v0.0.0-20190923035154-9ee001bba392 // indirect
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e // indirect
-	golang.org/x/sys v0.0.0-20190924062700-2aa67d56cdd7 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	google.golang.org/api v0.10.0 // indirect
 	google.golang.org/appengine v1.6.3 // indirect
 	google.golang.org/genproto v0.0.0-20190916214212-f660b8655731 // indirect
